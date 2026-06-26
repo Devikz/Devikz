@@ -1,3 +1,4 @@
+![logo](DevikaRaniSanaboyina.png)
 # 💫 About Me:
 My interest in Data Science started with a simple curiosity: how can data help us understand people, patterns, and decisions better? Over time, that curiosity grew into a strong interest in AI, machine learning, analytics, and LLM-based applications.
 
