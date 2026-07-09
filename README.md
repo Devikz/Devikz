@@ -1,5 +1,5 @@
 ![logo](DevikaRaniSanaboyina.png)
-# 💫 About Me:
+# About Me:
 My interest in Data Science started with a simple curiosity: how can data help us understand people, patterns, and decisions better? Over time, that curiosity grew into a strong interest in AI, machine learning, analytics, and LLM-based applications.
 
 I’m a Data Science graduate from UMBC with experience in data analysis, dashboard development, machine learning projects, and interactive map-based visualizations using Python, Tableau, Folium, and geospatial data. I also gained project management experience through the UMBC Odyssey Program.<br>
