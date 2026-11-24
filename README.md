@@ -30,4 +30,4 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 
 <!-- The workflow generates the SVG from the actual GitHub contribution calendar. -->
 
-![3D GitHub contribution city](assets/contribution-city.svg)
+[![3D GitHub contribution city — click to explore](assets/contribution-city.svg)](https://devikz.github.io/Devikz/city.html)
