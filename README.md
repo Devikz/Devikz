@@ -38,6 +38,6 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 
 <!-- The workflow generates the SVG from the actual GitHub contribution calendar. -->
 
-[View contribution-city generation status](https://github.com/Devikz/Devikz/actions)
+[![3D GitHub contribution city](assets/contribution-city.svg)](https://devikz.github.io/Devikz/city.html)
 
-![3D GitHub contribution city — awaiting first generation](assets/contribution-city.svg)
+[Explore the interactive contribution city ↗](https://devikz.github.io/Devikz/city.html) — requires GitHub Pages to be enabled.
