@@ -33,3 +33,11 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 **Application engineering:** FastAPI · Docker · Git · React
 
 **Visualization:** Tableau · Power BI · Folium
+
+## The City of Contributions
+
+<!-- The workflow generates the SVG from the actual GitHub contribution calendar. -->
+
+[View contribution-city generation status](https://github.com/Devikz/Devikz/actions)
+
+![3D GitHub contribution city — awaiting first generation](assets/contribution-city.svg)
