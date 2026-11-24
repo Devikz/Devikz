@@ -12,7 +12,7 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 
 ![Animated developer terminal — expertise, contact details and philosophy](assets/cosmic-terminal.svg)
 
-## Selected engineering projects
+## Projects
 
 | Project | Focus | Technology |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 | Promotion Effectiveness Analytics | Large-scale retail analytics | BigQuery, dbt |
 | Cart Retention Analytics | Behavioral event pipelines and retention analytics | Spark, SQL, dbt |
 
-## Technical Arsenal
+## Technical Skills
 
 ![Technical skills: Agentic AI and LLMs, machine learning, data engineering, application engineering, cloud and infrastructure, analytics and visualization](assets/technical-arsenal.svg)
 
