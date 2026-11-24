@@ -22,17 +22,9 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 | Promotion Effectiveness Analytics | Large-scale retail analytics | BigQuery, dbt |
 | Cart Retention Analytics | Behavioral event pipelines and retention analytics | Spark, SQL, dbt |
 
-## Technical ecosystem
+## Technical Arsenal
 
-**Applied AI:** Agentic systems · RAG · LangGraph · MCP · OpenAI Agents SDK
-
-**Machine learning:** Python · PyTorch · TensorFlow · scikit-learn
-
-**Data engineering:** SQL · BigQuery · Spark · dbt · PostgreSQL
-
-**Application engineering:** FastAPI · Docker · Git · React
-
-**Visualization:** Tableau · Power BI · Folium
+![Technical skills: Agentic AI and LLMs, machine learning, data engineering, application engineering, cloud and infrastructure, analytics and visualization](assets/technical-arsenal.svg)
 
 ## The City of Contributions
 
