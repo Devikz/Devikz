@@ -1,31 +1,33 @@
-![logo](DevikaRaniSanaboyina.png)
-# About Me:
-My interest in Data Science started with a simple curiosity: how can data help us understand people, patterns, and decisions better? Over time, that curiosity grew into a strong interest in AI, machine learning, analytics, and LLM-based applications.
+<div align="center">
 
-I’m a Data Science graduate from UMBC with experience in data analysis, dashboard development, machine learning projects, and interactive map-based visualizations using Python, Tableau, Folium, and geospatial data. I also gained project management experience through the UMBC Odyssey Program.<br>
+![Devika Rani Sanaboyina — AI Engineer and Data Scientist](assets/neural-singularity.svg)
 
+[LinkedIn](https://linkedin.com/in/devika-ranis) · [Email](mailto:devikaranisanaboyina18@gmail.com) · [GitHub](https://github.com/Devikz)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devika-ranis) 
+</div>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devikz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devikz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devikz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build intelligent systems at the intersection of applied AI, machine learning and data engineering. I'm a Data Science graduate from UMBC with experience in agentic AI, retrieval-augmented generation, analytics and geospatial visualization.
 
----
-[![](https://visitcount.itsvg.in/api?id=devikz&icon=0&color=0)](https://visitcount.itsvg.in)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devikz/Devikz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devikz/Devikz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Devikz/Devikz/output/github-snake.svg" />
-</picture>
+![Animated developer terminal — expertise, contact details and philosophy](assets/cosmic-terminal.svg)
 
+## Projects
 
+| Project | Focus | Technology |
+| --- | --- | --- |
+| FraudGuard AI | Financial fraud detection and human-reviewed investigation | PyTorch, FastAPI, RAG |
+| AgentShield | LLM safety evaluation and orchestration | LangGraph, MCP, OpenAI |
+| FairSlot | Booking, rescheduling and recovery workflows | PostgreSQL, FastAPI, Docker |
+| Promotion Effectiveness Analytics | Large-scale retail analytics | BigQuery, dbt |
+| Cart Retention Analytics | Behavioral event pipelines and retention analytics | Spark, SQL, dbt |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technical Skills
+
+![Technical skills: Agentic AI and LLMs, machine learning, data engineering, application engineering, cloud and infrastructure, analytics and visualization](assets/technical-arsenal.svg)
+
+## The City of Contributions
+
+<!-- The workflow generates the SVG from the actual GitHub contribution calendar. -->
+
+![3D GitHub contribution city](assets/contribution-city.svg)
