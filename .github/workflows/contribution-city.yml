@@ -2,7 +2,7 @@ name: Contribution city
 on:
   workflow_dispatch:
   push:
-    branches: [profile/obsidian-emerald]
+    branches: [main]
     paths: [scripts/generate_city.py, .github/workflows/contribution-city.yml]
   schedule:
     - cron: '23 4 * * *'
