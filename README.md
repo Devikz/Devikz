@@ -12,12 +12,6 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 
 ![Animated developer terminal — expertise, contact details and philosophy](assets/cosmic-terminal.svg)
 
-## Engineering by the numbers
-
-| RAG retrieval MRR | Fraud detection ROC-AUC | Purchase records processed | FairSlot automated tests |
-| :---: | :---: | :---: | :---: |
-| 0.73 → 0.91 | 0.9325 | 45.7M+ | 122 |
-
 ## Selected engineering projects
 
 | Project | Focus | Technology |
@@ -39,15 +33,3 @@ I build intelligent systems at the intersection of applied AI, machine learning 
 **Application engineering:** FastAPI · Docker · Git · React
 
 **Visualization:** Tableau · Power BI · Folium
-
-## Currently exploring
-
-Reliable agentic systems, AI evaluation, scalable data infrastructure and the intersection of computation and scientific discovery.
-
----
-
-<div align="center">
-
-<i>Building with purpose. Exploring with curiosity.</i>
-
-</div>
